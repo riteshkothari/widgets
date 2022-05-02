@@ -1,4 +1,5 @@
 // useState - Function that lets you use state in a functional components
+// useEffect - Allows function components to use something like lifecyle methods 
 
 import React, { useState } from 'react';
 
